@@ -181,8 +181,7 @@
       "selected_vehicle_load_level": "",
       "vehicle-armor-uses": {
         "armor": 0,
-        "heavy": 0,
-        
+        "heavy": 0
       },
       "vehicle-gear": [],
       "vehicle-enhance": 0,
