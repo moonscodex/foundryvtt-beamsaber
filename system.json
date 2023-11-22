@@ -29,56 +29,56 @@
       "label": "Abilities",
       "system": "beamsaber",
       "path": "./packs/abilities.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "class",
       "label": "Classes",
       "system": "beamsaber",
       "path": "./packs/classes.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "crew_ability",
       "label": "Crew Abilities",
       "system": "beamsaber",
       "path": "./packs/crew_abilities.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "crew_reputation",
       "label": "Crew Reputation",
       "system": "beamsaber",
       "path": "./packs/crew_reputation.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "crew_type",
       "label": "Crew Types",
       "system": "beamsaber",
       "path": "./packs/crew_types.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "crew_upgrade",
       "label": "Crew Upgrades",
       "system": "beamsaber",
       "path": "./packs/crew_upgrades.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "item",
       "label": "Items",
       "system": "beamsaber",
       "path": "./packs/items.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "vehicle_gear",
       "label": "Vehicle Gear",
       "system": "beamsaber",
       "path": "./packs/vehicle_gear.db",
-      "entity": "Item"
+      "type": "Item"
     }
   ]
 }
